@@ -1,4 +1,4 @@
-Belajar membuat website blog dan e-commerce dengan Framework Codiigniter 3 dan Bootsrap 4
+Belajar membuat website blog dan e-commerce dengan Framework Codeigniter 3 dan Bootsrap 4
 
 Terdapat halaman depan yang ditampilkan  
 - Daftar Artikel, Kategori Artikel, Detail Artikel 
