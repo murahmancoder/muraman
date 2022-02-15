@@ -1,4 +1,4 @@
-Membuat Projek website dari gabungan repository myfirstweb dan mushop. Menggunakan Framework Codeigniter-3 dan Bootstrap
+Belajar membuat website blog dan e-commerce dengan Framework Codiigniter 3 dan Bootsrap 4
 
 Terdapat halaman depan yang ditampilkan  
 - Daftar Artikel, Kategori Artikel, Detail Artikel 
